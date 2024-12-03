@@ -41,7 +41,7 @@ This repository contains a **Node.js backend** application for managing users an
 1. Clone the repository:
    ```bash
    git clone https://github.com/RahulSahu7981/Admin-User-Authentication
-   cd growthx
+   cd Admin-User-Authentication
 
 2. Install dependencies:
    ```bash
